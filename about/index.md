@@ -1,37 +1,26 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, JD, me, information]
+date: 2016-06-14
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<figure>
+	<img src="/assets/img/profileNY.png">
+</figure>
 
-## Preview
+## Life
+I grew up in Fort Worth, Texas with the most incredible family. I moved out to Dallas when I was 18 and never left. I started to program when I was a young geek, making websites for friends I played video games with. That peaked my interest but was pushed to the side for more "viable" career choices. Those career choices didn't work out, so I came back to something I should have done all along.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Hobbies
 
+* Programming (of course)
+* Playing Guitar & Piano (don't ask me to sing)
+* Playing Video Games (when I can)
+* Writing (hence the blog)
+* Reading
+
+
+### Site Theme
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
