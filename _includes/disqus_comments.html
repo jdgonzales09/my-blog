@@ -1,15 +1,15 @@
-{% if site.disqus_jdnetlifyblog %}
+{% if site.disqus_shortname %}
     <script type="text/javascript">
-        var disqus_shortname = '{{ site.jdnetlifyblog }}';
+        var disqus_shortname = '{{ jdnetlifyblog }}';
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//'jdnetlifyblog'.disqus.com/embed.js';
+            dsq.src = 'http://jdnetlifyblog.disqus.com/embed.js';
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
         (function () {
             var s = document.createElement('script'); s.async = true;
             s.type = 'text/javascript';
-            s.src = '//'jdnetlifyblog'.disqus.com/count.js';
+            s.src = 'http://jdnetlifyblog.disqus.com/embed.js';
             (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
         }());
     </script>
