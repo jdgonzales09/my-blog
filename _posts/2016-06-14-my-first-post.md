@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Post"
-date: 2012-06-14
+date: 2016-06-14
 excerpt: "I not only wanted to start a blog cause I think a lot more people care about my opinion than actual do, but I also wanted to find some way to be apart of the community and give back."
 tags: [beginning, new, test, career, story]
 feature: http://i.imgur.com/SAZ7pZJ.jpg
