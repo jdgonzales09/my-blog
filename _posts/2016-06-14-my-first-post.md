@@ -13,7 +13,7 @@ Blogs and podcasts have been a vital part of the beginning of my programming car
 
 ## The Why
 
-I not only wanted to start a blog cause I think a lot more people care about my opinion than actual do, but I also wanted to find some way to be apart of the community and give back. So this is why I've chosen to start a blog. I'll be writing about my experiences, projects I'm working on, issues I encounter, and opinions on just about any topic you can think of.
+I not only wanted to start a blog cause I think a lot more people care about my opinion than actually do, but I also wanted to find some way to be apart of the community. So this is why I've chosen to start a blog. I'll be writing about my experiences, projects I'm working on, issues I encounter, and opinions on just about any topic you can think of.
 
 ## The Where
 
