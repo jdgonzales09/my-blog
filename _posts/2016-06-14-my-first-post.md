@@ -2,10 +2,10 @@
 layout: post
 title: "My First Post"
 date: 2012-06-14
-excerpt: "Just learn"
+excerpt: "I not only wanted to start a blog cause I think a lot more people care about my opinion than actual do, but I also wanted to find some way to be apart of the community and give back."
 tags: [beginning, new, test, career, story]
 feature: http://i.imgur.com/SAZ7pZJ.jpg
-comments: false
+comments: true
 ---
 
 
@@ -27,4 +27,4 @@ As I mentioned earlier, there have been an extremely large of amount of content 
 
 ## Thanks
 
-Thanks for checking it out, and I hope to update you regularly. On the home page there's all sorts of ways you can contact me if you have any questions about programming, learning, Bloc (which I highly promote) or if you just want to share some cool stuff. 
+Thanks for checking it out, and I hope to update you regularly. On the home page there's all sorts of ways you can contact me if you have any questions about programming, learning, Bloc (which I highly promote) or if you just want to share some cool stuff.
