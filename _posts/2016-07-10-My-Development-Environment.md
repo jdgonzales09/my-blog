@@ -2,7 +2,7 @@
 layout: post
 title: "My Development Environment"
 date: 2016-07-10
-excerpt: "Bloccit was my first Rails application in the Bloc curriculum. It is a simple Reddit clone with the typical Reddit functionality, topics, posts, comments, upvoting and user authentication."
+excerpt: "I’ve only been at it full-time for 6 weeks as a student at Bloc so I have a lot of learning surrounding my development environment, but here’s what I’m currently learning and using."
 tags: [vim, environment, apps, tools, workflow, tmux]
 feature: http://i.imgur.com/7itocGg.png
 comments: true
