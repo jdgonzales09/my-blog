@@ -3,7 +3,7 @@ layout: post
 title: "My Development Environment"
 date: 2016-07-10
 excerpt: "Bloccit was my first Rails application in the Bloc curriculum. It is a simple Reddit clone with the typical Reddit functionality, topics, posts, comments, upvoting and user authentication."
-tags: [getting, started, podcasts, music, story]
+tags: [vim, environment, apps, tools, workflow, tmux]
 feature: http://i.imgur.com/7itocGg.png
 comments: true
 ---
