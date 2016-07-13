@@ -2,7 +2,7 @@
 layout: post
 title: "My First Alexa Skill"
 date: 2016-07-13
-excerpt: ""
+excerpt: "After developing my first gem called 'Kele', I decided to try out the Alexa project."
 tags: [alexa, skill, amazon, echo, game, thrones, trivia]
 feature: http://i.imgur.com/rz5JYlL.png
 comments: true
