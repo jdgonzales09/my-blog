@@ -14,9 +14,6 @@ So, this week has been a week of examining javascript used to invoke Alexa and d
 The point of the skill was to simply give you a fact about a certain subject when you ask for it. The subject I chose? Leonardo da Vinci
 
 ![Leo](http://i.imgur.com/IUckhOb.jpg)
-{: .image-right}
-
-
 
 ## The Project
 
