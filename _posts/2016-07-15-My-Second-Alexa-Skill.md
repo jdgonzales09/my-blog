@@ -16,6 +16,8 @@ The point of the skill was to simply give you a fact about a certain subject whe
 ![Leo](http://i.imgur.com/IUckhOb.jpg)
 {: .image-right}
 
+
+
 ## The Project
 
 This being my second Alexa skill, I was vaguely familiar with the process of creating one using AWS and of course the Alexa Skills Kit. It simply just varied in behavior from my last skill, which was a trivia skill that you can read about [here]('http://jd.netlify.com/my-first-alexa-skill/').
