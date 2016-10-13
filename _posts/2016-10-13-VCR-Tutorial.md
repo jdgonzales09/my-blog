@@ -15,9 +15,7 @@ One of the coolest gems I've used thus far is VCR. It made testing on a couple t
 
 **Take a look at it below and let me know what you think!**
 
-{% highlight html %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YPScsybInM" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
 
 I really had a good time putting this together so I think I'll end up doing more of them on a monthly basis, covering a wide array of topics.
 
